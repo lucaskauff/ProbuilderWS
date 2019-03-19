@@ -1,0 +1,196 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Zoey_BodyUp
+  m_Mask: 01000000010000000100000000000000000000000100000001000000010000000100000000000000000000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Biped
+    m_Weight: 1
+  - m_Path: Biped/Biped Pelvis
+    m_Weight: 1
+  - m_Path: Biped/Biped Pelvis/Biped Spine
+    m_Weight: 1
+  - m_Path: Biped/Biped Pelvis/Biped Spine/Biped L Thigh
+    m_Weight: 0
+  - m_Path: Biped/Biped Pelvis/Biped Spine/Biped L Thigh/Biped L Calf
+    m_Weight: 0
+  - m_Path: Biped/Biped Pelvis/Biped Spine/Biped L Thigh/Biped L Calf/Biped L Foot
+    m_Weight: 0
+  - m_Path: Biped/Biped Pelvis/Biped Spine/Biped L Thigh/Biped L Calf/Biped L Foot/Biped
+      L Toe0
+    m_Weight: 0
+  - m_Path: Biped/Biped Pelvis/Biped Spine/Biped R Thigh
+    m_Weight: 0
+  - m_Path: Biped/Biped Pelvis/Biped Spine/Biped R Thigh/Biped R Calf
+    m_Weight: 0
+  - m_Path: Biped/Biped Pelvis/Biped Spine/Biped R Thigh/Biped R Calf/Biped R Foot
+    m_Weight: 0
+  - m_Path: Biped/Biped Pelvis/Biped Spine/Biped R Thigh/Biped R Calf/Biped R Foot/Biped
+      R Toe0
+    m_Weight: 0
+  - m_Path: Biped/Biped Pelvis/Biped Spine/Biped Spine1
+    m_Weight: 1
+  - m_Path: Biped/Biped Pelvis/Biped Spine/Biped Spine1/Biped Spine2
+    m_Weight: 1
+  - m_Path: Biped/Biped Pelvis/Biped Spine/Biped Spine1/Biped Spine2/Biped Neck
+    m_Weight: 1
+  - m_Path: Biped/Biped Pelvis/Biped Spine/Biped Spine1/Biped Spine2/Biped Neck/Biped
+      Head
+    m_Weight: 1
+  - m_Path: Biped/Biped Pelvis/Biped Spine/Biped Spine1/Biped Spine2/Biped Neck/Biped
+      L Clavicle
+    m_Weight: 1
+  - m_Path: Biped/Biped Pelvis/Biped Spine/Biped Spine1/Biped Spine2/Biped Neck/Biped
+      L Clavicle/Biped L UpperArm
+    m_Weight: 1
+  - m_Path: Biped/Biped Pelvis/Biped Spine/Biped Spine1/Biped Spine2/Biped Neck/Biped
+      L Clavicle/Biped L UpperArm/Biped L Forearm
+    m_Weight: 1
+  - m_Path: Biped/Biped Pelvis/Biped Spine/Biped Spine1/Biped Spine2/Biped Neck/Biped
+      L Clavicle/Biped L UpperArm/Biped L Forearm/Biped L Hand
+    m_Weight: 1
+  - m_Path: Biped/Biped Pelvis/Biped Spine/Biped Spine1/Biped Spine2/Biped Neck/Biped
+      L Clavicle/Biped L UpperArm/Biped L Forearm/Biped L Hand/Biped L Finger0
+    m_Weight: 1
+  - m_Path: Biped/Biped Pelvis/Biped Spine/Biped Spine1/Biped Spine2/Biped Neck/Biped
+      L Clavicle/Biped L UpperArm/Biped L Forearm/Biped L Hand/Biped L Finger0/Biped
+      L Finger01
+    m_Weight: 1
+  - m_Path: Biped/Biped Pelvis/Biped Spine/Biped Spine1/Biped Spine2/Biped Neck/Biped
+      L Clavicle/Biped L UpperArm/Biped L Forearm/Biped L Hand/Biped L Finger0/Biped
+      L Finger01/Biped L Finger02
+    m_Weight: 1
+  - m_Path: Biped/Biped Pelvis/Biped Spine/Biped Spine1/Biped Spine2/Biped Neck/Biped
+      L Clavicle/Biped L UpperArm/Biped L Forearm/Biped L Hand/Biped L Finger1
+    m_Weight: 1
+  - m_Path: Biped/Biped Pelvis/Biped Spine/Biped Spine1/Biped Spine2/Biped Neck/Biped
+      L Clavicle/Biped L UpperArm/Biped L Forearm/Biped L Hand/Biped L Finger1/Biped
+      L Finger11
+    m_Weight: 1
+  - m_Path: Biped/Biped Pelvis/Biped Spine/Biped Spine1/Biped Spine2/Biped Neck/Biped
+      L Clavicle/Biped L UpperArm/Biped L Forearm/Biped L Hand/Biped L Finger1/Biped
+      L Finger11/Biped L Finger12
+    m_Weight: 1
+  - m_Path: Biped/Biped Pelvis/Biped Spine/Biped Spine1/Biped Spine2/Biped Neck/Biped
+      L Clavicle/Biped L UpperArm/Biped L Forearm/Biped L Hand/Biped L Finger2
+    m_Weight: 1
+  - m_Path: Biped/Biped Pelvis/Biped Spine/Biped Spine1/Biped Spine2/Biped Neck/Biped
+      L Clavicle/Biped L UpperArm/Biped L Forearm/Biped L Hand/Biped L Finger2/Biped
+      L Finger21
+    m_Weight: 1
+  - m_Path: Biped/Biped Pelvis/Biped Spine/Biped Spine1/Biped Spine2/Biped Neck/Biped
+      L Clavicle/Biped L UpperArm/Biped L Forearm/Biped L Hand/Biped L Finger2/Biped
+      L Finger21/Biped L Finger22
+    m_Weight: 1
+  - m_Path: Biped/Biped Pelvis/Biped Spine/Biped Spine1/Biped Spine2/Biped Neck/Biped
+      L Clavicle/Biped L UpperArm/Biped L Forearm/Biped L Hand/Biped L Finger3
+    m_Weight: 1
+  - m_Path: Biped/Biped Pelvis/Biped Spine/Biped Spine1/Biped Spine2/Biped Neck/Biped
+      L Clavicle/Biped L UpperArm/Biped L Forearm/Biped L Hand/Biped L Finger3/Biped
+      L Finger31
+    m_Weight: 1
+  - m_Path: Biped/Biped Pelvis/Biped Spine/Biped Spine1/Biped Spine2/Biped Neck/Biped
+      L Clavicle/Biped L UpperArm/Biped L Forearm/Biped L Hand/Biped L Finger3/Biped
+      L Finger31/Biped L Finger32
+    m_Weight: 1
+  - m_Path: Biped/Biped Pelvis/Biped Spine/Biped Spine1/Biped Spine2/Biped Neck/Biped
+      L Clavicle/Biped L UpperArm/Biped L Forearm/Biped L Hand/Biped L Finger4
+    m_Weight: 1
+  - m_Path: Biped/Biped Pelvis/Biped Spine/Biped Spine1/Biped Spine2/Biped Neck/Biped
+      L Clavicle/Biped L UpperArm/Biped L Forearm/Biped L Hand/Biped L Finger4/Biped
+      L Finger41
+    m_Weight: 1
+  - m_Path: Biped/Biped Pelvis/Biped Spine/Biped Spine1/Biped Spine2/Biped Neck/Biped
+      L Clavicle/Biped L UpperArm/Biped L Forearm/Biped L Hand/Biped L Finger4/Biped
+      L Finger41/Biped L Finger42
+    m_Weight: 1
+  - m_Path: Biped/Biped Pelvis/Biped Spine/Biped Spine1/Biped Spine2/Biped Neck/Biped
+      R Clavicle
+    m_Weight: 1
+  - m_Path: Biped/Biped Pelvis/Biped Spine/Biped Spine1/Biped Spine2/Biped Neck/Biped
+      R Clavicle/Biped R UpperArm
+    m_Weight: 1
+  - m_Path: Biped/Biped Pelvis/Biped Spine/Biped Spine1/Biped Spine2/Biped Neck/Biped
+      R Clavicle/Biped R UpperArm/Biped R Forearm
+    m_Weight: 1
+  - m_Path: Biped/Biped Pelvis/Biped Spine/Biped Spine1/Biped Spine2/Biped Neck/Biped
+      R Clavicle/Biped R UpperArm/Biped R Forearm/Biped R Hand
+    m_Weight: 1
+  - m_Path: Biped/Biped Pelvis/Biped Spine/Biped Spine1/Biped Spine2/Biped Neck/Biped
+      R Clavicle/Biped R UpperArm/Biped R Forearm/Biped R Hand/Biped R Finger0
+    m_Weight: 1
+  - m_Path: Biped/Biped Pelvis/Biped Spine/Biped Spine1/Biped Spine2/Biped Neck/Biped
+      R Clavicle/Biped R UpperArm/Biped R Forearm/Biped R Hand/Biped R Finger0/Biped
+      R Finger01
+    m_Weight: 1
+  - m_Path: Biped/Biped Pelvis/Biped Spine/Biped Spine1/Biped Spine2/Biped Neck/Biped
+      R Clavicle/Biped R UpperArm/Biped R Forearm/Biped R Hand/Biped R Finger0/Biped
+      R Finger01/Biped R Finger02
+    m_Weight: 1
+  - m_Path: Biped/Biped Pelvis/Biped Spine/Biped Spine1/Biped Spine2/Biped Neck/Biped
+      R Clavicle/Biped R UpperArm/Biped R Forearm/Biped R Hand/Biped R Finger1
+    m_Weight: 1
+  - m_Path: Biped/Biped Pelvis/Biped Spine/Biped Spine1/Biped Spine2/Biped Neck/Biped
+      R Clavicle/Biped R UpperArm/Biped R Forearm/Biped R Hand/Biped R Finger1/Biped
+      R Finger11
+    m_Weight: 1
+  - m_Path: Biped/Biped Pelvis/Biped Spine/Biped Spine1/Biped Spine2/Biped Neck/Biped
+      R Clavicle/Biped R UpperArm/Biped R Forearm/Biped R Hand/Biped R Finger1/Biped
+      R Finger11/Biped R Finger12
+    m_Weight: 1
+  - m_Path: Biped/Biped Pelvis/Biped Spine/Biped Spine1/Biped Spine2/Biped Neck/Biped
+      R Clavicle/Biped R UpperArm/Biped R Forearm/Biped R Hand/Biped R Finger2
+    m_Weight: 1
+  - m_Path: Biped/Biped Pelvis/Biped Spine/Biped Spine1/Biped Spine2/Biped Neck/Biped
+      R Clavicle/Biped R UpperArm/Biped R Forearm/Biped R Hand/Biped R Finger2/Biped
+      R Finger21
+    m_Weight: 1
+  - m_Path: Biped/Biped Pelvis/Biped Spine/Biped Spine1/Biped Spine2/Biped Neck/Biped
+      R Clavicle/Biped R UpperArm/Biped R Forearm/Biped R Hand/Biped R Finger2/Biped
+      R Finger21/Biped R Finger22
+    m_Weight: 1
+  - m_Path: Biped/Biped Pelvis/Biped Spine/Biped Spine1/Biped Spine2/Biped Neck/Biped
+      R Clavicle/Biped R UpperArm/Biped R Forearm/Biped R Hand/Biped R Finger3
+    m_Weight: 1
+  - m_Path: Biped/Biped Pelvis/Biped Spine/Biped Spine1/Biped Spine2/Biped Neck/Biped
+      R Clavicle/Biped R UpperArm/Biped R Forearm/Biped R Hand/Biped R Finger3/Biped
+      R Finger31
+    m_Weight: 1
+  - m_Path: Biped/Biped Pelvis/Biped Spine/Biped Spine1/Biped Spine2/Biped Neck/Biped
+      R Clavicle/Biped R UpperArm/Biped R Forearm/Biped R Hand/Biped R Finger3/Biped
+      R Finger31/Biped R Finger32
+    m_Weight: 1
+  - m_Path: Biped/Biped Pelvis/Biped Spine/Biped Spine1/Biped Spine2/Biped Neck/Biped
+      R Clavicle/Biped R UpperArm/Biped R Forearm/Biped R Hand/Biped R Finger4
+    m_Weight: 1
+  - m_Path: Biped/Biped Pelvis/Biped Spine/Biped Spine1/Biped Spine2/Biped Neck/Biped
+      R Clavicle/Biped R UpperArm/Biped R Forearm/Biped R Hand/Biped R Finger4/Biped
+      R Finger41
+    m_Weight: 1
+  - m_Path: Biped/Biped Pelvis/Biped Spine/Biped Spine1/Biped Spine2/Biped Neck/Biped
+      R Clavicle/Biped R UpperArm/Biped R Forearm/Biped R Hand/Biped R Finger4/Biped
+      R Finger41/Biped R Finger42
+    m_Weight: 1
+  - m_Path: CH_Zoey
+    m_Weight: 0
+  - m_Path: Frame
+    m_Weight: 0
+  - m_Path: HandleBars
+    m_Weight: 0
+  - m_Path: LeftPedal
+    m_Weight: 0
+  - m_Path: RightPedal
+    m_Weight: 0
+  - m_Path: Sprocket
+    m_Weight: 0
+  - m_Path: WheelFront
+    m_Weight: 0
+  - m_Path: WheelRear
+    m_Weight: 0

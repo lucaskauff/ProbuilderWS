@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 60d3c59a4a12cdc46be41d7e137dad78
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tracePrefab: {fileID: 114552692950446344, guid: 1e3cf5278e40fb548a209695b75e3da8,
+      type: 2}
+  - traceParent: {instanceID: 0}
+  - raycastPosition: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
